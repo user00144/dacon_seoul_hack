@@ -3,7 +3,7 @@
 ___
 
 ## DACON competition : Seoul Average Temperature Forecasting
-> **Competition** , **Mar. 2024 ~ May. 2024**
+> **Competition** , **Dec. 2023 ~ Jan. 2024**
 
 ---
 
